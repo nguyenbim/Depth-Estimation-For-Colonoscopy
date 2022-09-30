@@ -27,8 +27,8 @@
 
 
 ```python
-!gdown 1-jk4ddBheo1X3t12vKCPBxxubaOUO8S_  -O /content/CV_Vinbigdata/checkpoints/colon2depth_512p/80_net_D.pth
-!gdown 13HXlby3-u9JQilWNnPWUSLnLJsoRNCxH  -O /content/CV_Vinbigdata/checkpoints/colon2depth_512p/80_net_G.pth
+!gdown 1-jk4ddBheo1X3t12vKCPBxxubaOUO8S_  -O /content/Depth-Estimation-For-Colonoscopy-using-deep-learning-and-self-supervised-learning/checkpoints/colon2depth_512p/80_net_D.pth
+!gdown 13HXlby3-u9JQilWNnPWUSLnLJsoRNCxH  -O /content/Depth-Estimation-For-Colonoscopy-using-deep-learning-and-self-supervised-learning/checkpoints/colon2depth_512p/80_net_G.pth
 ```
 
 
