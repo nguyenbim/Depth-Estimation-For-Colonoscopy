@@ -2,13 +2,13 @@
 
 
 ```python
-!git clone https://github.com/duongstudent/CV_Vinbigdata.git
+!git clone https://github.com/nguyenbim/Depth-Estimation-For-Colonoscopy-using-deep-learning-and-self-supervised-learning.git
 ```
 
 
 
 ```python
-%cd CV_Vinbigdata/
+%cd Depth-Estimation-For-Colonoscopy-using-deep-learning-and-self-supervised-learning/
 ```
 
 
