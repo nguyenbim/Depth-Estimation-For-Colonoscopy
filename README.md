@@ -50,7 +50,7 @@
 import glob
 import cv2
 import matplotlib.pyplot as plt
-data_test = glob.glob('/content/CV_Vinbigdata/data_sample/*.png')
+data_test = glob.glob('./data_sample/*.png')
 len(data_test)
 ```
 
