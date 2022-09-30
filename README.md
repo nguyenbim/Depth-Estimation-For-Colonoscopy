@@ -9,6 +9,7 @@
 
 ```python
 %cd Depth-Estimation-For-Colonoscopy-using-deep-learning-and-self-supervised-learning/
+!mkdir checkpoints/colon2depth_512p/
 ```
 
 
