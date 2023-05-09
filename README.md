@@ -1,14 +1,14 @@
+## Hướng dẫn run test trên google colab
 # Download code
 
-
 ```python
-!git clone https://github.com/nguyenbim/Depth-Estimation-For-Colonoscopy-using-deep-learning-and-self-supervised-learning.git
+!git clone https://github.com/nguyenbim/Depth-Estimation-For-Colonoscopy.git
 ```
 
 
 
 ```python
-%cd Depth-Estimation-For-Colonoscopy-using-deep-learning-and-self-supervised-learning/
+%cd Depth-Estimation-For-Colonoscopy/
 !mkdir checkpoints/colon2depth_512p/
 ```
 
@@ -28,8 +28,8 @@
 
 
 ```python
-!gdown 1-jk4ddBheo1X3t12vKCPBxxubaOUO8S_  -O /content/Depth-Estimation-For-Colonoscopy-using-deep-learning-and-self-supervised-learning/checkpoints/colon2depth_512p/80_net_D.pth
-!gdown 13HXlby3-u9JQilWNnPWUSLnLJsoRNCxH  -O /content/Depth-Estimation-For-Colonoscopy-using-deep-learning-and-self-supervised-learning/checkpoints/colon2depth_512p/80_net_G.pth
+!gdown 1-jk4ddBheo1X3t12vKCPBxxubaOUO8S_  -O /content/Depth-Estimation-For-Colonoscopy/checkpoints/colon2depth_512p/80_net_D.pth
+!gdown 13HXlby3-u9JQilWNnPWUSLnLJsoRNCxH  -O /content/Depth-Estimation-For-Colonoscopy/checkpoints/colon2depth_512p/80_net_G.pth
 ```
 
 
