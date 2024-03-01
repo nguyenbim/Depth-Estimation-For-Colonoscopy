@@ -1,4 +1,4 @@
-## Hướng dẫn run test trên google colab
+## Instructions run code on google collab
 # Download code
 
 ```python
@@ -24,7 +24,7 @@
 
 # Dowload model
 
-### Nếu lỗi khi bạn chạy trên colab là do section chưa load xong, check đường dẫn folder "/content/CV_Vinbigdata/checkpoints/colon2depth_512p" và chạy lại
+### if error when running, wait until section completely loaded, check path folder "/content/CV_Vinbigdata/checkpoints/colon2depth_512p" and rerun
 
 
 ```python
