@@ -9,7 +9,7 @@
 
 ```python
 %cd Depth-Estimation-For-Colonoscopy/
-!mkdir checkpoints/colon2depth_512p/
+!mkdir -p checkpoints/colon2depth_512p/
 ```
 
 
@@ -28,8 +28,8 @@
 
 
 ```python
-!gdown 1-jk4ddBheo1X3t12vKCPBxxubaOUO8S_  -O /content/Depth-Estimation-For-Colonoscopy/checkpoints/colon2depth_512p/80_net_D.pth
-!gdown 13HXlby3-u9JQilWNnPWUSLnLJsoRNCxH  -O /content/Depth-Estimation-For-Colonoscopy/checkpoints/colon2depth_512p/80_net_G.pth
+!gdown 1BYWkrjaug2akBt4CH-sCk0K0wEmLwNr2  -O /content/Depth-Estimation-For-Colonoscopy/checkpoints/colon2depth_512p/80_net_D.pth
+!gdown 1BXzy4XPQBaSTGMv019CuKImy8qpoMaiq  -O /content/Depth-Estimation-For-Colonoscopy/checkpoints/colon2depth_512p/80_net_G.pth
 ```
 
 
