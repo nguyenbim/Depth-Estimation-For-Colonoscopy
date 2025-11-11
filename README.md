@@ -95,8 +95,8 @@ for i in data_test:
 
 
 ## Acknowledgments
-This project is done by 5-mem group.
-This code borrows from [Self-Supervised-Depth-Estimation-for-Colonoscopy](https://github.com/ckLibra/Self-Supervised-Depth-Estimation-for-Colonoscopy.git).
+This project is done by a 5-member group.
+This code reference [Self-Supervised-Depth-Estimation-for-Colonoscopy](https://github.com/ckLibra/Self-Supervised-Depth-Estimation-for-Colonoscopy.git).
 
 
 ## REFERENCE
